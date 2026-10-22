@@ -207,7 +207,7 @@ The project contains a 5-page interactive dashboard:
 
 ### CLV Analytics
 
-![CLV Analytics](dashboard_screenshots/page5_clv_analytics.png)
+![CLV Analytics](https://github.com/ThirunagariNavadeep/E-Commerce-Customer-Analytics-Retention-Dashboard/blob/ba6e3204a6b78360b1d6ba19e28dc2bc3161e048/Dashboard%20Screenshots/Page%205%20%20CLV%20Analytics.png)
 
 ---
 
