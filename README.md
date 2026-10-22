@@ -199,7 +199,7 @@ The project contains a 5-page interactive dashboard:
 
 ### Product Analytics
 
-![Product Analytics](dashboard_screenshots/page3_product_analytics.png)
+![Product Analytics](https://github.com/ThirunagariNavadeep/E-Commerce-Customer-Analytics-Retention-Dashboard/blob/e96342cb02a147f80a5efbd3116a66b2e295aaa4/Dashboard%20Screenshots/Page%203%20%20Product%20Analytics.png)
 
 ### RFM Segmentation
 
