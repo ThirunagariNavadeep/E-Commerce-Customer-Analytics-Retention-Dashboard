@@ -195,7 +195,7 @@ The project contains a 5-page interactive dashboard:
 
 ### Customer Analytics
 
-![Customer Analytics](dashboard_screenshots/page2_customer_analytics.png)
+![Customer Analytics](https://github.com/ThirunagariNavadeep/E-Commerce-Customer-Analytics-Retention-Dashboard/blob/6699fd7172d312b42c5134738b3ef1fd95fb6441/Dashboard%20Screenshots/Page%202%20%20%20%20Customer%20Analytics.png)
 
 ### Product Analytics
 
