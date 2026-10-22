@@ -203,7 +203,7 @@ The project contains a 5-page interactive dashboard:
 
 ### RFM Segmentation
 
-![RFM Analytics](dashboard_screenshots/page4_rfm_segmentation.png)
+![RFM Analytics](https://github.com/ThirunagariNavadeep/E-Commerce-Customer-Analytics-Retention-Dashboard/blob/6d01a477be465620b72f4a31c4898657610fec46/Dashboard%20Screenshots/Page%204%20%20RFM%20Customer%20Segmentation.png)
 
 ### CLV Analytics
 
