@@ -191,7 +191,7 @@ The project contains a 5-page interactive dashboard:
 
 ### Executive Summary
 
-![Executive Summary](dashboard_screenshots/page1_executive_summary.png)
+![Executive Summary](https://github.com/ThirunagariNavadeep/E-Commerce-Customer-Analytics-Retention-Dashboard/blob/1e5a4955836a659e078db5f104f6030a42318b30/Dashboard%20Screenshots/Page%201%20%20%20Executive%20Summary.png)
 
 ### Customer Analytics
 
